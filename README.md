@@ -1,4 +1,4 @@
-![gif](https://github.com/talam1992/talam1992/blob/main/209661.gif)
+![gif](https://github.com/talam1992/talam1992/blob/main/Github-Greeting.gif)
 ![Timothy Lam's github stats](https://github-readme-stats.vercel.app/api?username=talam1992&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs)
 - 🔭  I’m currently doing research on QoE Model for Group-based WebRTC.
 
