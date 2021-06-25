@@ -4,5 +4,8 @@
 - ✨  Looking for a Junior Developer role in a dynamic prestigious company. (HTML5/CSS3/JavaScript/jQuery/Python/Java/WordPress)
 
 [![GitHub Badge](https://img.shields.io/badge/-@talam1992-%23181717?style=flat&logo=github)](https://github.com/talam1992)
-[![Twitter Badge](https://img.shields.io/badge/-@talam1992-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/timothylam1992)](https://twitter.com/timothylam1992) 
+[![Twitter Badge](https://img.shields.io/badge/-@talam1992-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/timothylam1992)]() 
 [![Linkedin Badge](https://img.shields.io/badge/-Timothy%20Adrian%20Lam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timothy-adrian-lam-3226a182/)](https://www.linkedin.com/in/timothy-adrian-lam-3226a182/)
+[![Youtube Badge](https://img.shields.io/badge/-Timothy%20Lam-red??style=flat&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCHfPWF6Pg7Cws5kZ6dFNP_Q)
+
+
