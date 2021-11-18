@@ -1,7 +1,7 @@
 ![gif](https://github.com/talam1992/talam1992/blob/main/Github-Greeting.gif)
 ![Timothy Lam's github stats](https://github-readme-stats.vercel.app/api?username=talam1992&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs)
-- 🔭  I’m currently doing research on QoE Model for Group-based WebRTC.
-- ✨  Looking for a Junior Developer role in a dynamic prestigious company. (HTML5/CSS3/JavaScript/jQuery/Python/Java/WordPress)
+- 🔭  I’m a Graduate in MSc Internet Mobile, Systems and Application & BSc (Hons) Information Technology (Computing).
+- ✨  Looking for a Junior Web Developer, WordPress Developer and  Software Engineer role in a dynamic prestigious company. (HTML5/CSS3/JavaScript/jQuery/Python/Java/WordPress)
 
 [![GitHub Badge](https://img.shields.io/badge/-@talam1992-%23181717?style=flat&logo=github)](https://github.com/talam1992)
 [![Twitter Badge](https://img.shields.io/badge/-@talam1992-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/timothylam1992)]() 
